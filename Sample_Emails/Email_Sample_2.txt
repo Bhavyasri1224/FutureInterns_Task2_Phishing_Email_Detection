@@ -1,0 +1,16 @@
+Subject: Bank Account Verification Required
+
+From: support@secure-bank-alerts.net
+
+Dear Customer,
+
+Your online banking access has been temporarily suspended.
+
+Please verify your account details immediately to restore access.
+
+Click here:
+http://bank-security-check.net
+
+Thank you,
+Bank Security Department
+
