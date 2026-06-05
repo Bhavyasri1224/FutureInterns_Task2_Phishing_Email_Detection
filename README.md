@@ -1,3 +1,4 @@
+# FutureInterns_Task2_Phishing_Email_Detection
 # Phishing Email Detection & Awareness System
 
 ## Project Overview
@@ -138,4 +139,4 @@ FutureInterns_Task2_Phishing_Email_Detection
 ## Conclusion
 
 The analyzed emails exhibited multiple phishing characteristics, including suspicious links, generic greetings, urgency tactics, and unknown sender domains. This project demonstrates how phishing attacks can be identified through careful analysis and highlights the importance of cybersecurity awareness in preventing social engineering attacks.
-# FutureInterns_Task2_Phishing_Email_Detection
+
